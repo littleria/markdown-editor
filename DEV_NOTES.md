@@ -12,3 +12,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added .editorconfig for consistent formatting
 - Investigated performance bottleneck, noted findings
 - Documented config options
+
+## 2026-08-26
+- Updated .gitignore to exclude build artifacts
+- Drafted initial implementation plan for v2
+- Added basic usage examples to README

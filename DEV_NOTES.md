@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-02
 - Reviewed open issues, added labels
 - Tested build on clean environment
+
+## 2026-09-02
+- Removed unused variable declarations

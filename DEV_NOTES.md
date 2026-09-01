@@ -24,3 +24,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-02
 - Removed unused variable declarations
+
+## 2026-09-02
+- Added type hints to helper functions

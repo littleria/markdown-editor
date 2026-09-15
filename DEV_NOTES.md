@@ -30,3 +30,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-09
 - Improved log message formatting
+
+## 2026-09-16
+- Consolidated duplicate helper functions
+- Added basic retry logic for network requests
+- Updated .gitignore to exclude build artifacts

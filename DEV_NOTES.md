@@ -45,3 +45,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-14
 - Refactored module structure for clarity
 - Fixed minor edge case in input handling
+
+## 2026-10-14
+- Fixed minor edge case in input handling
+- Tidied up project structure
+- Checked for memory leaks in long-running path

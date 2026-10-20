@@ -50,3 +50,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed minor edge case in input handling
 - Tidied up project structure
 - Checked for memory leaks in long-running path
+
+## 2026-10-21
+- Ran linter, applied auto-fixes

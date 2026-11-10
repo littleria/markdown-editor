@@ -69,3 +69,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-11-11
 - Updated CI cache strategy
+
+## 2026-11-11
+- Investigated performance bottleneck, noted findings
+- Addressed feedback from self code review

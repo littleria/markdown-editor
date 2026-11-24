@@ -73,3 +73,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-11-11
 - Investigated performance bottleneck, noted findings
 - Addressed feedback from self code review
+
+## 2026-11-25
+- Tidied up project structure

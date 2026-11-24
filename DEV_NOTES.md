@@ -76,3 +76,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-11-25
 - Tidied up project structure
+
+## 2026-11-25
+- Noted known limitation in docs

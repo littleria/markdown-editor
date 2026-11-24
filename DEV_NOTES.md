@@ -79,3 +79,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-11-25
 - Noted known limitation in docs
+
+## 2026-11-25
+- Fixed minor edge case in input handling
